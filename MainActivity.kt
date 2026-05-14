@@ -1,4 +1,4 @@
-package com.example.registrasiseminarcompos
+package com.zaskiaqnita_2430511024.registrasiseminar
 
 import android.content.Intent
 import android.os.Bundle

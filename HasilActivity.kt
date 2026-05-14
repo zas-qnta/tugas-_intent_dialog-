@@ -1,7 +1,6 @@
-package com.example.registrasiseminarcompos
+package com.zaskiaqnita_2430511024.registrasiseminar
 
 import android.content.Intent
-import android.net.Uri
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
@@ -51,7 +50,7 @@ class HasilActivity : ComponentActivity() {
                             val browserIntent = Intent(
                                 Intent.ACTION_VIEW,
 
-                                "https://teknikinformatikaummi.ac.id".toUri()
+                                "https://unpad.ac.id".toUri()
                             )
 
                             startActivity(browserIntent)
